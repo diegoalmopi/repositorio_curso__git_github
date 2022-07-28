@@ -1,0 +1,5 @@
+hola
+como esta
+mi nombre es diego alejandro
+esta es un archivo de texto plano como prueba para el curso de git y github de platzi
+estoy aprendiendo desde ceero, ok, aqui vamos, deseenme suerte
