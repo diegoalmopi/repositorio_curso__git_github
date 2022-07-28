@@ -4,3 +4,13 @@ body
     text-align: left;
     font-family: "Arial";
 }
+
+#cabecera
+{
+    background-color: cornflowerblue;
+    color:azure;
+    margin: 0;
+    padding: 0.5em;
+
+
+}
